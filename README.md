@@ -1,5 +1,6 @@
 ### End to End Project Agentic AI Chatbots
 
+```mermaid
 flowchart TD
     A[main.py (Entry Point)] --> B[Graph Builder]
     B --> C[State Management]
