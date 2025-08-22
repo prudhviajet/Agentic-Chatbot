@@ -1,5 +1,6 @@
 ### End to End Project Agentic AI Chatbots
 
+```mermaid
 flowchart TD
     U[User Input via Streamlit UI] --> F[UI Layer]
 
@@ -35,3 +36,4 @@ flowchart TD
         F[uiconfigfile & streamlitui.loadui]
         O[streamlitui.display_result]
     end
+```
