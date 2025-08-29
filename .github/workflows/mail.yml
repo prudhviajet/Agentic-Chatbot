@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://Prudhvi1003:$HF_TOKEN@huggingface.co/spaces/Prudhvi1003/chatbot main
+        run: git push https://Prudhvi1003:$HF_TOKEN@huggingface.co/spaces/Prudhvi1003/basic_chatbot main
